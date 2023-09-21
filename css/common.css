@@ -6,10 +6,19 @@
 
 html,
 body {
+  background-color: var(--fondo-pantalla);
+  color: var(--textos);
   margin: 0;
   padding: 0;
   background-color: rgb(240, 240, 240);
 }
+/* Archivo: css/common.css */
+:root {
+  --magenta: #ee3d8f;
+  --celeste: #37bbed;
+  --morado: #9283be;
+}
+
 
 :root {
   --magenta: #ee3d8f;
